@@ -4,7 +4,9 @@ This project was made for HIT college.
 
 Got help with this tutorial:
 
-https://www.maurocomi.com/transfer-style.html -> using the class "Evaluator" & some functions.
+https://www.maurocomi.com/transfer-style.html -> 
+
+using the class "Evaluator" + functions.
 
 
 
