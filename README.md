@@ -14,9 +14,13 @@ using the class "Evaluator" + functions.
 
 # User instructions:
 
-1) chose a content image from menu (options are between1-3).
+## 1) chose a content image from menu (options are between1-3).
+For example:
+![content3](https://user-images.githubusercontent.com/69638284/104102951-33161280-52a8-11eb-8e02-92a1e566aebe.png)
 
-2) chose a style image from menu (options are between 1-6).
+## 2) chose a style image from menu (options are between 1-6).
+For example:
+![style5](https://user-images.githubusercontent.com/69638284/104102961-36a99980-52a8-11eb-9796-2e491f830c08.jpg)
 
 3) Fature visualization by blocks:
   1.  ['block1_conv1', 'block1_conv2']
