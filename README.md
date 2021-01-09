@@ -45,9 +45,14 @@ For example:
 
 ## 4) Now the image is processing by the new style.
 
-### First Epoch: ![0](https://user-images.githubusercontent.com/69638284/104102992-5fca2a00-52a8-11eb-8f81-f827d625df9e.png)
-### Second Epoch: ![9](https://user-images.githubusercontent.com/69638284/104102993-60fb5700-52a8-11eb-87aa-50d1df03c500.png)
-### Third Epoch: ![18](https://user-images.githubusercontent.com/69638284/104102994-622c8400-52a8-11eb-836f-8f25c5bde629.png)
+### First Epoch:
+![0](https://user-images.githubusercontent.com/69638284/104102992-5fca2a00-52a8-11eb-8f81-f827d625df9e.png)
+
+### Second Epoch:
+![9](https://user-images.githubusercontent.com/69638284/104102993-60fb5700-52a8-11eb-87aa-50d1df03c500.png)
+
+### Third Epoch:
+![18](https://user-images.githubusercontent.com/69638284/104102994-622c8400-52a8-11eb-836f-8f25c5bde629.png)
 
 
 
