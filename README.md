@@ -22,7 +22,7 @@ For example:
 For example:
 ![style5](https://user-images.githubusercontent.com/69638284/104102961-36a99980-52a8-11eb-9796-2e491f830c08.jpg)
 
-3) Fature visualization by blocks:
+## 3) Fature visualization by blocks:
   1.  ['block1_conv1', 'block1_conv2']
   2.  ['block2_conv1', 'block2_conv2']
   3.  ['block3_conv1', 'block3_conv4']
@@ -37,9 +37,15 @@ For example:
       'block5_conv1']
 
 
-3) Now the image is processing by the new style.
+![noise](https://user-images.githubusercontent.com/69638284/104102967-41fcc500-52a8-11eb-8e69-bf0c58380609.png)
+![0](https://user-images.githubusercontent.com/69638284/104102974-4d4ff080-52a8-11eb-81d5-dd97e22a7445.png)
+![9](https://user-images.githubusercontent.com/69638284/104102978-504ae100-52a8-11eb-84dd-86fe439f54f6.png)
+![9](https://user-images.githubusercontent.com/69638284/104102979-52ad3b00-52a8-11eb-9dc2-d4961fd28fec.png)
+![9](https://user-images.githubusercontent.com/69638284/104102982-55a82b80-52a8-11eb-8241-5877d5a7eded.png)
 
-4) Saving video to show full transition.
+## 4) Now the image is processing by the new style.
+
+## 5) Saving video to show full transition.
 
 
 
