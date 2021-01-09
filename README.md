@@ -37,11 +37,16 @@ For example:
       'block5_conv1']
 
 
-### A. ![noise](https://user-images.githubusercontent.com/69638284/104102967-41fcc500-52a8-11eb-8e69-bf0c58380609.png)
-### B. ![0](https://user-images.githubusercontent.com/69638284/104102974-4d4ff080-52a8-11eb-81d5-dd97e22a7445.png)
-### C. ![9](https://user-images.githubusercontent.com/69638284/104102978-504ae100-52a8-11eb-84dd-86fe439f54f6.png)
-### D. ![9](https://user-images.githubusercontent.com/69638284/104102979-52ad3b00-52a8-11eb-9dc2-d4961fd28fec.png)
-### E. ![9](https://user-images.githubusercontent.com/69638284/104102982-55a82b80-52a8-11eb-8241-5877d5a7eded.png)
+### Noise image:
+![noise](https://user-images.githubusercontent.com/69638284/104102967-41fcc500-52a8-11eb-8e69-bf0c58380609.png)
+### features_visualization_block_1. 
+![0](https://user-images.githubusercontent.com/69638284/104102974-4d4ff080-52a8-11eb-81d5-dd97e22a7445.png)
+### features_visualization_block_2. 
+![9](https://user-images.githubusercontent.com/69638284/104102978-504ae100-52a8-11eb-84dd-86fe439f54f6.png)
+### features_visualization_block_3. 
+![9](https://user-images.githubusercontent.com/69638284/104102979-52ad3b00-52a8-11eb-9dc2-d4961fd28fec.png)
+### features_visualization_block_4. 
+![9](https://user-images.githubusercontent.com/69638284/104102982-55a82b80-52a8-11eb-8241-5877d5a7eded.png)
 
 ## 4) Now the image is processing by the new style.
 
