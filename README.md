@@ -39,19 +39,23 @@ For example:
 
 ### Starting from random noise image:
 ![noise](https://user-images.githubusercontent.com/69638284/104102967-41fcc500-52a8-11eb-8e69-bf0c58380609.png)
-### features_visualization_block_1. 
-#### Mostly about learning colors
+### features_visualization_block_1: 
+#### (Mostly about learning colors)
+
 ![0](https://user-images.githubusercontent.com/69638284/104102974-4d4ff080-52a8-11eb-81d5-dd97e22a7445.png)
-### features_visualization_block_2. 
-#### Mostly learning patterns
+### features_visualization_block_2:
+#### (Mostly learning big patterns)
+
 ![9](https://user-images.githubusercontent.com/69638284/104102978-504ae100-52a8-11eb-84dd-86fe439f54f6.png)
-### features_visualization_block_3.
-#### Mostly learning patterns
+### features_visualization_block_3:
+#### (Mostly learning detailed patterns)
 ![9](https://user-images.githubusercontent.com/69638284/104102979-52ad3b00-52a8-11eb-9dc2-d4961fd28fec.png)
-### features_visualization_block_4. 
+### features_visualization_block_4:
+#### (Mostly learning detailed patterns)
+
 ![9](https://user-images.githubusercontent.com/69638284/104102982-55a82b80-52a8-11eb-8241-5877d5a7eded.png)
-### features_visualization_block_5. 
-#### Mostly bluring
+### features_visualization_block_5:
+#### (Mostly bluring)
 ![9](https://user-images.githubusercontent.com/69638284/104103362-5772ee80-52aa-11eb-950d-a56304746394.png)
 
 
