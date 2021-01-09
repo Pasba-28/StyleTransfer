@@ -47,6 +47,9 @@ For example:
 ![9](https://user-images.githubusercontent.com/69638284/104102979-52ad3b00-52a8-11eb-9dc2-d4961fd28fec.png)
 ### features_visualization_block_4. 
 ![9](https://user-images.githubusercontent.com/69638284/104102982-55a82b80-52a8-11eb-8241-5877d5a7eded.png)
+### features_visualization_block_5. 
+![9](https://user-images.githubusercontent.com/69638284/104103362-5772ee80-52aa-11eb-950d-a56304746394.png)
+
 
 ## 4) Now the image is processing by the new style.
 
